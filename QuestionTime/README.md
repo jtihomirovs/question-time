@@ -19,5 +19,5 @@ Main features:
 
 ## Running Application
 
-To launch QuestionTime app open terminal and execute command: `python manage.py runserver`
-Link in browser most likely will be `http://127.0.0.1:8000/`
+- To launch QuestionTime app open terminal and execute command: `python manage.py runserver`
+- Link in browser most likely will be `http://127.0.0.1:8000/`
