@@ -13,9 +13,9 @@ Main features:
 - Like other people answers via Like button.
 
 ## Technology stack
-Frontend: vue.js and Bootstrap 5
-Backend: Python with Django and REST frameworks
-DB: SQLite
+- Frontend: vue.js and Bootstrap 5
+- Backend: Python with Django and REST frameworks
+- DB: SQLite
 
 ## Running Application
 
